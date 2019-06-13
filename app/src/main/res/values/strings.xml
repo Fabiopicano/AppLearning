@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Learning</string>
+    <string name="title_activity_pagina2">Pagina Personale</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">I miei Corsi</string>
+    <string name="title_notifications">Profilo</string>
+    <string name="i_miei_corsi">I miei Corsi</string>
+    <string name="tutti_i_corsi">Tutti i corsi</string>
+    <string name="profilo">Profilo</string>
+</resources>
